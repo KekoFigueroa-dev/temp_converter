@@ -26,6 +26,6 @@ rounded_kelvin = round(temp_kelvin, 4)
 
 #====== Display Section ======#
 # Show all three temperatures in aligned format
-print(f"Degrees Fahrenheit: {rounded_fahrenheit}\nDegrees Celsius: {rounded_celsius}\nDegrees Kelvin: {rounded_kelvin}")
+print(f"Degrees Fahrenheit: {rounded_fahrenheit} \nDegrees Celsius: {rounded_celsius}\n Degrees Kelvin: {rounded_kelvin} ")
 
-print("You for testing my app")
+print("Thank you for testing my app")
